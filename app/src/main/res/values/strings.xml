@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Implicit Intens</string>
+    <string name="edittext_uri">http://twitter.com</string>
+    <string name="button_uri">Open Website</string>
+    <string name="edittext_loc">Stadion Si Jalak Harupat</string>
+    <string name="button_loc">Open Location</string>
+    <string name="edittext_share">\Tugas Praktikum PAM</string>
+    <string name="button_share">Share This Text</string>
+</resources>
